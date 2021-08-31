@@ -1,0 +1,21 @@
+.search-results {
+    margin-top: 40px;
+    text-align: left;
+    margin-left: 100px;
+}
+
+.search-results .item {
+    border-bottom: 1px solid #ddd;
+    cursor: pointer;
+}
+.search-results .item h4 {
+    font-size: 18px;
+    color: #303030;
+    margin-bottom: 2px;
+    padding-top: 2px;
+}
+
+.search-results .item p {
+    font-size: 16px;
+    color: #606060;
+}
